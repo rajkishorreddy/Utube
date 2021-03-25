@@ -1,0 +1,12 @@
+.VideoItem {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+/* below is taken from the dev tools where the img width is applying not a rocket science */
+.ui.image {
+  max-width: 180px;
+}
+/* .videoItem.item img {
+    max-width: 180px;
+    } */
